@@ -1,0 +1,5 @@
+# Ignore all .mp4 files
+*.mp4
+*.ts
+*.bin
+*.m3u8
